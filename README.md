@@ -17,8 +17,8 @@ Me interesan la IA aplicada a la salud y el cuidado, el emprendimiento tecnológ
 | Proyecto | Qué es | Dónde verlo |
 |---|---|---|
 | **Compañía por voz con IA** | Asistente de voz que llama a personas adultas mayores para conversar, ejercitar la memoria con su propia historia y avisar a la familia cómo va su ánimo. Probado con llamadas reales. | [Código](https://github.com/Majodelarous/ANUIES) |
-| **Radar de Atención Turística de Puebla** | Mide la atención digital de los Pueblos Mágicos en TikTok, YouTube, Google y asistentes de IA, y la cruza con datos oficiales de ocupación y derrama. Hackathon Tech Capital 2026. | [Sitio](https://radar.majodelarous.dev) |
-| **Estación de inspección visual de soldaduras** | Estación de bajo costo con visión artificial que señala uniones soldadas sospechosas sin depender de internet. Finalista FEMECI Puebla 2026. | [Sitio](https://femeci.majodelarous.dev) |
+| **Radar de Atención Turística de Puebla** | Mide la atención digital de los Pueblos Mágicos en TikTok, YouTube, Google y asistentes de IA, y la cruza con datos oficiales de ocupación y derrama. Hackathon Tech Capital 2026. | [Sitio](https://radar.majodelarous.dev) · [Código](https://github.com/Majodelarous/Tech-Capital-2026) |
+| **Estación de inspección visual de soldaduras** | Estación de bajo costo con visión artificial que señala uniones soldadas sospechosas sin depender de internet. Finalista FEMECI Puebla 2026. | [Sitio](https://femeci.majodelarous.dev) · [Código](https://github.com/Majodelarous/semiconductores) |
 
 <br>
 
